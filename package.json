@@ -1,0 +1,7 @@
+{
+  "name": "offline-rails5",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
